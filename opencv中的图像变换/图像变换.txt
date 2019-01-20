@@ -1,0 +1,22 @@
+学习到1、opencv对图像进行傅里叶变换
+          2、使用numpy中FFT（快速傅里叶变换）函数
+          3、傅里叶变换的一些用处
+          4、学习到函数cv2.dft() cv2.idft()等等
+傅里叶变换：关于傅里叶变换中高频分量和低频分量是针对于图像的幅度值的变化。如果变化快的话就是高频，
+在边界点或者噪声是图像中的高频分量
+
+一、在numpy进行FFt变换
+np.fft.fft2(img)是对img进行二维信号的fft变换，但是变换过程中频率为0 的部分
+即直流分量部分在左上角，使用np.fft.fftshift(f)是将智力分量移到中心。
+构建振幅图的公式是20*log(abs(fshift))
+显示部分用matplotlib进行显示plt.imshow('显示图片'，cmap = 显示格式)
+二、在opencv中进行FFT变换，
+void dft(InputArray src,OutputArray dst,int flags = 0,int nonzeroRows = 0)
+inputArray和out是输入和输出图像。flags是转换标识符，默认值为0：
+DFT_INVERSE: 用一维或二维逆变换取代默认的正向变换，DFT_SCALE: 缩放比例标识符，
+根据数据元素个数平均求出其缩放结果，如有N个元素，则输出结果以1/N缩放输出，常与DFT_INVERSE搭配使用。 
+DFT_ROWS: 对输入矩阵的每行进行正向或反向的傅里叶变换，DFT_COMPLEX_OUTPUT: 对一维或二维的实数数组进行正向变换，
+DFT_REAL_OUTPUT: 对一维二维复数数组进行逆向变换
+可以使用cv2.cartToPolar（）他会同事返回幅度和相位
+cv2.magnitude()是计算二维矢量的赋值，实数部分和虚数部分。在图像中是cv[:,:,0]是实数
+[:,:,1]是虚数部分
