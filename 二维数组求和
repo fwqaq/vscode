@@ -1,0 +1,18 @@
+#include <stdio.h>                           
+#include <string.h>
+int main() 
+{
+	char h[100 ];
+	int t,n;
+	scanf("%s",&h);
+	t=strlen(h);
+
+    for (n=t;n>=0;n--)
+	{
+		h[t]=h[n-1];
+		t++;
+      	}	
+		printf ("%s",h);
+	return 0;
+ }
+
