@@ -11,8 +11,8 @@
     </ProjectConfiguration>
   </ItemGroup>
   <PropertyGroup Label="Globals">
-    <ProjectGuid>{B49DFFF4-6D9C-4806-8187-D86F9A959526}</ProjectGuid>
-    <RootNamespace>通讯录</RootNamespace>
+    <ProjectGuid>{230E8753-9747-4B1E-88A3-8B2312AF6229}</ProjectGuid>
+    <RootNamespace>My1_22通讯录改进</RootNamespace>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'" Label="Configuration">
@@ -64,7 +64,7 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClCompile Include="通讯录.c" />
+    <ClCompile Include="1_22通讯录改进.c" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

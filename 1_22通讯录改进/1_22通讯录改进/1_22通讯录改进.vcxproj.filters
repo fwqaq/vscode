@@ -15,7 +15,7 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="通讯录.c">
+    <ClCompile Include="1_22通讯录改进.c">
       <Filter>源文件</Filter>
     </ClCompile>
   </ItemGroup>
