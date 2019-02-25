@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.21005.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "圆类设计", "圆类设计\圆类设计.vcxproj", "{D37807C2-A97C-4330-9DBF-63B8F1C4F3C4}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "2-25构造函数和析构函数", "2-25构造函数和析构函数\2-25构造函数和析构函数.vcxproj", "{A5D9F6D2-F16A-499F-859F-B547D9BF1773}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D37807C2-A97C-4330-9DBF-63B8F1C4F3C4}.Debug|Win32.ActiveCfg = Debug|Win32
+		{D37807C2-A97C-4330-9DBF-63B8F1C4F3C4}.Debug|Win32.Build.0 = Debug|Win32
+		{D37807C2-A97C-4330-9DBF-63B8F1C4F3C4}.Release|Win32.ActiveCfg = Release|Win32
+		{D37807C2-A97C-4330-9DBF-63B8F1C4F3C4}.Release|Win32.Build.0 = Release|Win32
+		{A5D9F6D2-F16A-499F-859F-B547D9BF1773}.Debug|Win32.ActiveCfg = Debug|Win32
+		{A5D9F6D2-F16A-499F-859F-B547D9BF1773}.Debug|Win32.Build.0 = Debug|Win32
+		{A5D9F6D2-F16A-499F-859F-B547D9BF1773}.Release|Win32.ActiveCfg = Release|Win32
+		{A5D9F6D2-F16A-499F-859F-B547D9BF1773}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
