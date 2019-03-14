@@ -1,0 +1,17 @@
+﻿生成启动时间为 2019/3/14 11:00:52。
+     1>项目“F:\czongjie\3_14贪吃蛇\3_14贪吃蛇\3_14贪吃蛇.vcxproj”在节点 2 上(Build 个目标)。
+     1>ClCompile:
+         E:\VS\vs\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt game.cpp wall.cpp
+         wall.cpp
+     1>f:\czongjie\3_14贪吃蛇\3_14贪吃蛇\wall.cpp(4): error C2628: “Wall”后面接“void”是非法的(是否忘记了“;”?)
+     1>f:\czongjie\3_14贪吃蛇\3_14贪吃蛇\wall.cpp(5): error C2556: “Wall Wall::initWall(void)”: 重载函数与“void Wall::initWall(void)”只是在返回类型上不同
+                 f:\czongjie\3_14贪吃蛇\3_14贪吃蛇\wall.h(12) : 参见“Wall::initWall”的声明
+     1>f:\czongjie\3_14贪吃蛇\3_14贪吃蛇\wall.cpp(5): error C2371: “Wall::initWall”: 重定义；不同的基类型
+                 f:\czongjie\3_14贪吃蛇\3_14贪吃蛇\wall.h(12) : 参见“Wall::initWall”的声明
+         game.cpp
+         正在生成代码...
+     1>已完成生成项目“F:\czongjie\3_14贪吃蛇\3_14贪吃蛇\3_14贪吃蛇.vcxproj”(Build 个目标)的操作 - 失败。
+
+生成失败。
+
+已用时间 00:00:00.45
