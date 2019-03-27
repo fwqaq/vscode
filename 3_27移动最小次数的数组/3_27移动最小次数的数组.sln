@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.21005.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "3_27移动最小次数的数组", "3_27移动最小次数的数组\3_27移动最小次数的数组.vcxproj", "{C5A92353-8CA0-4166-BB70-E4C81E7F35F2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C5A92353-8CA0-4166-BB70-E4C81E7F35F2}.Debug|Win32.ActiveCfg = Debug|Win32
+		{C5A92353-8CA0-4166-BB70-E4C81E7F35F2}.Debug|Win32.Build.0 = Debug|Win32
+		{C5A92353-8CA0-4166-BB70-E4C81E7F35F2}.Release|Win32.ActiveCfg = Release|Win32
+		{C5A92353-8CA0-4166-BB70-E4C81E7F35F2}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
