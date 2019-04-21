@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.21005.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "4_21插入排序", "4_21插入排序\4_21插入排序.vcxproj", "{DBCF64B1-C9C3-4303-9B1D-8ABC89A24024}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DBCF64B1-C9C3-4303-9B1D-8ABC89A24024}.Debug|Win32.ActiveCfg = Debug|Win32
+		{DBCF64B1-C9C3-4303-9B1D-8ABC89A24024}.Debug|Win32.Build.0 = Debug|Win32
+		{DBCF64B1-C9C3-4303-9B1D-8ABC89A24024}.Release|Win32.ActiveCfg = Release|Win32
+		{DBCF64B1-C9C3-4303-9B1D-8ABC89A24024}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
