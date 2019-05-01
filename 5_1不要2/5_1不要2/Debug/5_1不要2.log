@@ -1,0 +1,15 @@
+﻿生成启动时间为 2019/5/1 13:10:10。
+     1>项目“F:\czongjie\5_1不要2\5_1不要2\5_1不要2.vcxproj”在节点 2 上(Build 个目标)。
+     1>ClCompile:
+         E:\VS\vs\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt "5_1不要2.cpp"
+         5_1不要2.cpp
+     1>f:\czongjie\5_1不要2\5_1不要2\5_1不要2.cpp(4): warning C4101: “i”: 未引用的局部变量
+     1>f:\czongjie\5_1不要2\5_1不要2\5_1不要2.cpp(4): warning C4101: “j”: 未引用的局部变量
+       Link:
+         E:\VS\vs\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"F:\czongjie\5_1不要2\Debug\5_1不要2.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"F:\czongjie\5_1不要2\Debug\5_1不要2.pdb" /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"F:\czongjie\5_1不要2\Debug\5_1不要2.lib" /MACHINE:X86 "Debug\5_1不要2.obj"
+         5_1不要2.vcxproj -> F:\czongjie\5_1不要2\Debug\5_1不要2.exe
+     1>已完成生成项目“F:\czongjie\5_1不要2\5_1不要2\5_1不要2.vcxproj”(Build 个目标)的操作。
+
+生成成功。
+
+已用时间 00:00:01.07
