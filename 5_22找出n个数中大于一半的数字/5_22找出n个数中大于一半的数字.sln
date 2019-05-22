@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.21005.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "5_22找出n个数中大于一半的数字", "5_22找出n个数中大于一半的数字\5_22找出n个数中大于一半的数字.vcxproj", "{843C2B09-FB7C-431F-B6F8-5C0D3E7E09D9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{843C2B09-FB7C-431F-B6F8-5C0D3E7E09D9}.Debug|Win32.ActiveCfg = Debug|Win32
+		{843C2B09-FB7C-431F-B6F8-5C0D3E7E09D9}.Debug|Win32.Build.0 = Debug|Win32
+		{843C2B09-FB7C-431F-B6F8-5C0D3E7E09D9}.Release|Win32.ActiveCfg = Release|Win32
+		{843C2B09-FB7C-431F-B6F8-5C0D3E7E09D9}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
