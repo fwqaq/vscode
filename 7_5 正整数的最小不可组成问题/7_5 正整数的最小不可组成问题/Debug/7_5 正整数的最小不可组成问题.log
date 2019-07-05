@@ -1,0 +1,16 @@
+﻿生成启动时间为 2019/7/4 19:30:13。
+     1>项目“F:\czongjie\7_5 正整数的最小不可组成问题\7_5 正整数的最小不可组成问题\7_5 正整数的最小不可组成问题.vcxproj”在节点 2 上(Build 个目标)。
+     1>ClCompile:
+         E:\VS\vs\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt "7_5 正整数的最小不可组成.cpp"
+         7_5 正整数的最小不可组成.cpp
+     1>f:\czongjie\7_5 正整数的最小不可组成问题\7_5 正整数的最小不可组成问题\7_5 正整数的最小不可组成.cpp(20): warning C4258: “i”: 忽略 For 循环中的定义；使用封闭范围中的定义
+                 f:\czongjie\7_5 正整数的最小不可组成问题\7_5 正整数的最小不可组成问题\7_5 正整数的最小不可组成.cpp(19) : 忽略“i”的定义
+                 f:\czongjie\7_5 正整数的最小不可组成问题\7_5 正整数的最小不可组成问题\7_5 正整数的最小不可组成.cpp(16) : 使用“i”的定义
+       Link:
+         E:\VS\vs\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"F:\czongjie\7_5 正整数的最小不可组成问题\Debug\7_5 正整数的最小不可组成问题.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"F:\czongjie\7_5 正整数的最小不可组成问题\Debug\7_5 正整数的最小不可组成问题.pdb" /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"F:\czongjie\7_5 正整数的最小不可组成问题\Debug\7_5 正整数的最小不可组成问题.lib" /MACHINE:X86 "Debug\7_5 正整数的最小不可组成.obj"
+         7_5 正整数的最小不可组成问题.vcxproj -> F:\czongjie\7_5 正整数的最小不可组成问题\Debug\7_5 正整数的最小不可组成问题.exe
+     1>已完成生成项目“F:\czongjie\7_5 正整数的最小不可组成问题\7_5 正整数的最小不可组成问题\7_5 正整数的最小不可组成问题.vcxproj”(Build 个目标)的操作。
+
+生成成功。
+
+已用时间 00:00:00.58
