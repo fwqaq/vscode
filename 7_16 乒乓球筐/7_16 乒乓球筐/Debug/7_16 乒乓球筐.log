@@ -1,0 +1,18 @@
+﻿生成启动时间为 2019/7/16 22:23:09。
+     1>项目“F:\czongjie\7_16 乒乓球筐\7_16 乒乓球筐\7_16 乒乓球筐.vcxproj”在节点 2 上(Build 个目标)。
+     1>ClCompile:
+         E:\VS\vs\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt "7_16 乒乓球筐.cpp"
+         7_16 乒乓球筐.cpp
+     1>f:\czongjie\7_16 乒乓球筐\7_16 乒乓球筐\7_16 乒乓球筐.cpp(14): error C2086: “std::vector<int,std::allocator<_Ty>> v2”: 重定义
+                 with
+                 [
+                     _Ty=int
+                 ]
+                 f:\czongjie\7_16 乒乓球筐\7_16 乒乓球筐\7_16 乒乓球筐.cpp(10) : 参见“v2”的声明
+     1>f:\czongjie\7_16 乒乓球筐\7_16 乒乓球筐\7_16 乒乓球筐.cpp(16): warning C4018: “<”: 有符号/无符号不匹配
+     1>f:\czongjie\7_16 乒乓球筐\7_16 乒乓球筐\7_16 乒乓球筐.cpp(19): warning C4018: “<”: 有符号/无符号不匹配
+     1>已完成生成项目“F:\czongjie\7_16 乒乓球筐\7_16 乒乓球筐\7_16 乒乓球筐.vcxproj”(Build 个目标)的操作 - 失败。
+
+生成失败。
+
+已用时间 00:00:01.49
