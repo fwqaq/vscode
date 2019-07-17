@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.21005.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "7_17 简单的错误记录", "7_17 简单的错误记录\7_17 简单的错误记录.vcxproj", "{748F3ADF-D5D2-4D6C-B277-1BAE47E1715A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{748F3ADF-D5D2-4D6C-B277-1BAE47E1715A}.Debug|Win32.ActiveCfg = Debug|Win32
+		{748F3ADF-D5D2-4D6C-B277-1BAE47E1715A}.Debug|Win32.Build.0 = Debug|Win32
+		{748F3ADF-D5D2-4D6C-B277-1BAE47E1715A}.Release|Win32.ActiveCfg = Release|Win32
+		{748F3ADF-D5D2-4D6C-B277-1BAE47E1715A}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
