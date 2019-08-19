@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.21005.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "8_19 缺失的数字（0-n-1）", "8_19 缺失的数字（0-n-1）\8_19 缺失的数字（0-n-1）.vcxproj", "{D58CCA3C-9F72-4219-AEA7-3B66F46F92A8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D58CCA3C-9F72-4219-AEA7-3B66F46F92A8}.Debug|Win32.ActiveCfg = Debug|Win32
+		{D58CCA3C-9F72-4219-AEA7-3B66F46F92A8}.Debug|Win32.Build.0 = Debug|Win32
+		{D58CCA3C-9F72-4219-AEA7-3B66F46F92A8}.Release|Win32.ActiveCfg = Release|Win32
+		{D58CCA3C-9F72-4219-AEA7-3B66F46F92A8}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
